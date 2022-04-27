@@ -8,6 +8,17 @@
 
 ⚠️ This github account is primarily intended to give people who are interested in joining our team some insights about our work. Our actual code is hosted on our internal Github enterprise instance. 
 
+ToC:
+
+- [Open Positions](#open-positions)
+- [About Us](#about-us)
+  + [Team](#team)
+  + [Topics that we work on](#topics-that-we-work-on)
+  + [Technologies that we are using](#technologies-that-we-are-using)
+  + [Problems that we are dealing with](#problems-that-we-are-dealing-with)
+  + [Modus operandi: how we work](#modus-operandi-how-we-work)
+  + [Contact](#contact)
+
 # Open Positions
 
 We are fairly flexible regarding locations, e.g. we have offices in Hamburg, Barcelona or Valencia and allow for remote work from countries in which XING / NEW WORK SE has a legal entity (currently: Germany, Spain, Portugal, Poland, Italy, Austria, Switzerland). 
