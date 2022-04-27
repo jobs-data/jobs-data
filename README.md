@@ -6,7 +6,7 @@
 - ✨ We are continuously seeking Data Engineers, ML Engineers and Data Scientists who are passionate about solving hard problems at scale to help millions of people to find a job.
 - 📫 Contact: Fabian Abel ([XING](https://www.xing.com/profile/Fabian_Abel), [LinkedIn](https://de.linkedin.com/in/fabianabel), email:  firstname.lastname@xing.com). 
 
-This github account is primarily intended to give people whoo are interested in joining our team some insights about our work. Our actual code is hosted on our internal Github enterprise instance. 
+⚠️ This github account is primarily intended to give people whoo are interested in joining our team some insights about our work. Our actual code is hosted on our internal Github enterprise instance. 
 
 # Open Positions
 
