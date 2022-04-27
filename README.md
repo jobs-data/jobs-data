@@ -6,7 +6,7 @@
   + search services
   + various machine learning based components (e.g. related to user modeling, information extraction)
   + data insights that help shaping strategy and product
-- 🇪🇺 We are a distributed team of Data Engineers, Data Analysts and Data Scientists located in Germany (Hamburg) and Spain (Valencia, Barcelona). 
+- 🇪🇺 We are a distributed team of Data Engineers, Data Analysts and Data Scientists located in 🇩🇪 Germany (Hamburg) and 🇪🇸 Spain (Valencia, Barcelona). 
 - ✨ We are continuously seeking Data Engineers, ML Engineers and Data Scientists who are passionate about solving hard problems at scale to help millions of people to find a job. See also: [Open Positions](#open-positions)
 - 📫 Contact: Fabian Abel ([XING](https://www.xing.com/profile/Fabian_Abel), [LinkedIn](https://de.linkedin.com/in/fabianabel), email:  `firstname.lastname@xing.com`). 
 
