@@ -1,7 +1,11 @@
 # 👋 Hi!
 
 - 👋 Hi, We are the Data Team that works on [XING's jobs marketplace](https://xing.com/jobs) :-) We work at [NEW WORK SE](https://www.new-work.se/) which is the company behind [XING](https://xing.com/). 
-- 👀  We develop recommender systems, search services and other machine learning based components and provide data insights that help shaping strategy and product.
+- 👀  We develop and provide... 
+  + recommender systems
+  + search services
+  + machine learning based components 
+  + data insights that help shaping strategy and product
 - 🇪🇺 We are a distributed team of Data Engineers, Data Analysts and Data Scientists located in Germany (Hamburg) and Spain (Valencia, Barcelona). 
 - ✨ We are continuously seeking Data Engineers, ML Engineers and Data Scientists who are passionate about solving hard problems at scale to help millions of people to find a job. See also: [Open Positions](#open-positions)
 - 📫 Contact: Fabian Abel ([XING](https://www.xing.com/profile/Fabian_Abel), [LinkedIn](https://de.linkedin.com/in/fabianabel), email:  `firstname.lastname@xing.com`). 
